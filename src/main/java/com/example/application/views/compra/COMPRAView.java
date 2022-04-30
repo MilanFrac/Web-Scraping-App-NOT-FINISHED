@@ -118,7 +118,7 @@ public class COMPRAView extends Div {
                 (doc.select("h2.title").get(14).text()));
 
 
-        //i fight with this part of code with for loop ^
+       
 
         formLayout.add(device1, device2);
         return formLayout;
